@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HWM Bot</string>
+    <string name="login_hint">Имя персонажа</string>
+    <string name="password_hint">Пароль</string>
+    <string name="come_in">Войти</string>
+    <string name="enabledAutoWork">Включить автоустройство</string>
+    <string name="disabledAutoWork">Выключить автоустройство</string>
+</resources>
